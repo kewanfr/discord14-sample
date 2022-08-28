@@ -1,0 +1,31 @@
+{
+  "name": "discord14-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewanfr/discord14-sample.git"
+  },
+  "author": "kewanb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kewanfr/discord14-sample/issues"
+  },
+  "homepage": "https://github.com/kewanfr/discord14-sample#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.5",
+    "discord-html-transcripts": "^2.6.1",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.23.0",
+    "mongoose": "^6.5.3",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.19"
+  }
+}
